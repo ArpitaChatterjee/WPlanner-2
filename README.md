@@ -18,9 +18,7 @@
     <li>Animate.css class for animations</li>
     <li>Gentella dashboard</li>
   </ul>
-<h3>Contributors:</h3>
-<a href="https://github.com/steekam">Kamau Wanyee</a> <br>
-<a href="https://github.com/salomechemiat">Salome Monthe</a>
+
 
 <h3>Extra links</h3>
 <a href="http://paletton.com/#uid=10d0u0kflkY76uwbppbiVgHnLdm">Color Pallete</a>
